@@ -18,7 +18,7 @@
 		<java.version>11</java.version>
 		<maker-mongo.version>0.0.6-SNAPSHOT</maker-mongo.version>
 		<amazon-sdk.version>1.11.728</amazon-sdk.version>
-		<commons-io.version>2.6</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 	</properties>
 
 	<dependencies>
